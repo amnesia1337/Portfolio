@@ -7,7 +7,7 @@
 Focused on creating secure systems that prioritize privacy, security, and usability, constantly pushing the envelope on encryption and privacy-preserving technologies, in order to protect the human right to privacy.
 
 ## Profile Summary 🌟
-Grayson Giles (Amnesia) is a freelance Information Security Researcher/Consultant and Linux Developer/Maintainer who serves as the Lead Maintainer of **LainOS**. With a strong focus on privacy and security, Grayson has a proven track record in Linux system development and communication frameworks. He has made notable contributions to the **QubesOS** and **Whonix** projects, and has developed his own security project, **VESME**. Their commitment to developing reliable tools, environments, and solutions has contributed to the growth of privacy and security technologies within the information security and open-source communities.
+Grayson Giles (Amnesia) is a freelance Information Security Researcher/Consultant and Linux Developer/Maintainer who serves as the Lead Maintainer of **LainOS**. With a strong focus on privacy and security, Grayson has a proven track record in Linux system development and communication frameworks. He has made notable contributions to the **QubesOS** and **Whonix** projects, and has developed his own security project, **VESME**, a speciallize communication framework with unprecedented shrift and privacy benefits for users. Their commitment to developing reliable tools, environments, and solutions has contributed to the growth of privacy and security technologies within the information security and open-source communities.
 
 ## Key Projects 🛠️
 
@@ -19,7 +19,7 @@ Grayson Giles (Amnesia) is a freelance Information Security Researcher/Consultan
   * Designed to look inconspicuous(like taking notes etc...) and 'hide' within the terminal application.
   * Multi-layered security architecture that aligns with the goals of ISO and NIST standards.
   * Utilizes PGP for XMPP account authentication and OMEMO encrypted XMPP over Tor for secure messaging.
-  * Ensures no residual data remains after use through manual VM wipe. Toggle terminal off in developer options for instant data wipe, reinstall terminal for thorough overwrite(10-15 mine).
+  * Ensures no residual data remains after user initiated manual VM wipe. Toggle terminal off in developer options for instant data wipe, reinstall terminal for thorough overwrite(10-15 mine).
   * Integrates traffic obfuscation techniques to enhance privacy.
   * A pioneering example of ephemeral computing utilizing virtualization in mobile security.
   * Future plans include a CLI fork of Ricochet Refresh for integration into VESME, to offer a serverless choice.
