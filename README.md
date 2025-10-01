@@ -13,7 +13,7 @@ Grayson Giles (Amnesia) is a freelance Information Security Researcher/Consultan
 
 ### VESME (Virtualized Ephemeral Secure Messaging Environment) 💬
 
-* **Description**: A communication framework designed for secure messaging within the Linux Terminal Application of Android, which runs within the Android Virtualization Framework. VESME aims to provide a pioneering open-source **High Assurance Platform** for secure communications on mobile devices using virtualization, encryption, and ephemeral computing, designed for those facing heavy surveillance or censorship.
+* **Description**: A communication framework designed for secure messaging within the Linux Terminal Application of Android, which in turn runs within the Android Virtualization Framework. VESME aims to provide a pioneering open-source **High Assurance Platform** for secure communications on mobile devices using virtualization, encryption, and ephemeral computing, designed for those facing heavy surveillance or censorship.
 * **Key Features**:
 
   * Designed to look inconspicuous(like taking notes etc...) and 'hide' within the terminal application.
