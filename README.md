@@ -19,7 +19,7 @@ Grayson Giles (Amnesia) is a freelance Information Security Researcher/Consultan
   * Designed to look inconspicuous(like taking notes etc...) and 'hide' within the terminal application.
   * Multi-layered security architecture that aligns with the goals of ISO and NIST standards.
   * Utilizes PGP for XMPP account authentication and OMEMO encrypted XMPP over Tor for secure messaging.
-  * Ensures no residual data remains after use through manual VM wipe. Toggle terminal off in developer options for instant data wipe(instant, destroys disk image), or reinstall terminal for thorough overwrite(10-15 mine).
+  * Ensures no residual data remains after use through manual VM wipe. Toggle terminal off in developer options for instant data wipe(instant, destroys disk image), or reinstall terminal for thorough overwrite(10-15 min).
   * Integrates traffic obfuscation techniques to enhance privacy.
   * A pioneering example of ephemeral computing utilizing virtualization in mobile security.
   * Future plans include a CLI fork of Ricochet Refresh for integration into VESME, to offer a serverless choice.
