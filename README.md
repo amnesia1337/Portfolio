@@ -31,12 +31,12 @@ LainOS Layer 02 is an OpenRC-based Systemd-free Linux operating system built aro
 * Designed and maintain **LainOS Layer 02**, an independent Linux operating system based on Arch Linux and OpenRC.
 * Integrated the **Protocol 7** architecture to provide compatibility with modern Linux desktop software without requiring systemd as PID 1.
 * Built a complete desktop environment using Sway, greetd, PipeWire, Calamares, and distribution-specific tooling.
-* Developed Layer 02 administration utilities for networking, Tor, privacy workflows, sdwdate management, memory hardening, and system configuration.
+* Developed Layer 02 administration utilities for networking, Tor, privacy workflows, sdwdate management, memory hardening, AppArmor, and system configuration.
 * Designed documented operational workflows for sensitive sessions, including automated privacy-mode sequencing and verification procedures.
 * Integrated optional privacy technologies including Tor, Snowflake, obfs4, sdwdate, WireGuard, hardened_malloc, and secure desktop defaults.
 * Maintain Layer 02 as a daily-use operating system, continuously improving usability, installation, documentation, and platform stability.
 
-**Technologies:** Arch Linux · OpenRC · Wayland (Sway) · PipeWire · Tor · WireGuard · Calamares · C · Bash
+**Technologies:** Arch Linux · OpenRC · Wayland (Sway) · PipeWire · Tor · WireGuard · Calamares · C · Bash · Apparmor
 
 **Status:** Active development · Release Candidate
 
