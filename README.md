@@ -66,7 +66,7 @@ Delivered a Calamares-based graphical installer integrated with a dracut live-bo
 
 **Repository:** [https://github.com/The-LainOS-Project](https://github.com/The-LainOS-Project)
 
-LainOS is a rolling-release Linux distribution based on Arch, focused on privacy, user sovereignty, and minimal trusted computing base.(layer 02)
+LainOS is a rolling-release Linux distribution based on Arch, focused on privacy, user sovereignty, and minimal trusted computing base(layer 02).
 
 **Key Contributions**
 
