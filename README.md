@@ -10,7 +10,7 @@
 
 Lead Architect of **lainOS layer 01**, **lainOS layer 02**, the **Protocol 7 System Architecture** · Creator of **VESME-avf**
 
-Independent security researcher and systems architect/engineer specializing in OS-level security, init-system architecture, and privacy-hardened Linux systems. Lead architect of LainOS and Protocol 7, a non-systemd compatibility layer that decouples modern Wayland desktops from systemd-era assumptions, currently in daily production use (RC4). Diagnosed and repaired critical Snowflake pluggable transport failures in Qubes-Whonix, restoring connectivity for 2,000+ daily users in censored regions; co-author in the official Whonix Bridges wiki. Creator of VESME, an experimental RAM-only secure messaging framework built on Android's Virtualization Framework.
+Independent security researcher and systems architect/engineer specializing in OS-level security, init-system architecture, and privacy-hardened Linux systems. Lead architect of LainOS and Protocol 7, a non-systemd compatibility layer that decouples modern Wayland desktops from systemd-era assumptions, currently in daily production use (stable release 2026.07.29). Diagnosed and repaired critical Snowflake pluggable transport failures in Qubes-Whonix, restoring connectivity for 2,000+ daily users in censored regions; co-author in the official Whonix Bridges wiki. Creator of VESME, an experimental RAM-only secure messaging framework built on Android's Virtualization Framework.
 
 Focused on sovereign computing, deterministic systems, and hardened isolation.
 
