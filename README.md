@@ -38,7 +38,7 @@ LainOS Layer 02 is an OpenRC-based Systemd-free Linux operating system built aro
 
 **Technologies:** Arch Linux · OpenRC · Wayland (Sway) · PipeWire · Tor · WireGuard · Calamares · C · Bash · Apparmor
 
-**Status:** Active development · Release Candidate
+**Status:** Stable as of 2027.07.30. In daily production use.
 
 ## Protocol 7 ~ Init-Agnostic systemd Compatibility Layer (LainOS Layer 02)
 **Role:** Independent Systems & Security Engineer · Lead Architect & Maintainer
@@ -54,7 +54,7 @@ Delivered a Calamares-based graphical installer integrated with a dracut live-bo
 
 **Technologies:** C, libseccomp, D-Bus, OpenRC, dfuzzer, AddressSanitizer, libFuzzer, Valgrind, Calamares, Wayland (Sway)
 
-**Status:** Active development, RC stage, in daily production use
+**Status:** Stable as of 2027.07.30. In daily production use.
 
 ---
 
