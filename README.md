@@ -41,7 +41,9 @@ LainOS Layer 02 is an OpenRC-based Systemd-free Linux operating system built aro
 **Status:** Stable as of 2027.07.30. In daily production use.
 
 ## Protocol 7 ~ Init-Agnostic systemd-decoupling Compatibility Layer (LainOS Layer 02)
+
 **Role:** Independent Systems & Security Engineer · Lead Architect & Maintainer
+
 **Repository:** [https://forgejo.lain.rocks/lainOS/Protocol-7](https://forgejo.lain.rocks/lainOS/Protocol-7)
 
 This project was LLM assisted.
@@ -60,7 +62,7 @@ Delivered a Calamares-based graphical installer integrated with a dracut live-bo
 
 **Role:** Independent Systems & Security Engineer · Lead Architect & Maintainer
 
-**Repository:** Part of the [Protocol 7 repository](https://gitlab.com/lainos/protocol_7_repo)
+**Repository:** https://forgejo.lain.rocks/lainOS/lainos-apparmor
 
 Designed and shipped a full suite of hardened AppArmor profiles covering the entire LainOS Layer 02 stack ~ networking, DNS, crypto, browsers, media, and Protocol 7's own daemons ~ enforced by default at boot via `enforce.d` symlinks.
 
@@ -81,6 +83,8 @@ Designed and shipped a full suite of hardened AppArmor profiles covering the ent
 
 **Role:** Independent Systems & Security Engineer · Architect
 
+**Repository:** [LainOS DNS Mediation Architecture](https://forgejo.lain.rocks/lainOS/lainOS-layer-02/src/branch/main/lainos-dns-mediation-architecture.md)
+
 Designed a layered DNS resolution architecture for LainOS Layer 02 that presents applications with a single stable local resolver (`127.0.0.1`) while abstracting all upstream resolver policy, topology, and transitions inside the operating system.
 
 **Key Contributions**
@@ -98,7 +102,7 @@ Designed a layered DNS resolution architecture for LainOS Layer 02 that presents
 
 ---
 
-## LainOS ~ Privacy-Hardened Arch Linux (2022 – Present) 
+### LainOS ~ Privacy-Hardened Arch Linux (2022 – Present) 
 
 #### 150 GitHub stars(110 stars without the wallpaper repo)
 
@@ -119,7 +123,7 @@ LainOS is a rolling-release Linux distribution based on Arch, focused on privacy
 
 ---
 
-## VESME ~ Virtualized Ephemeral Secure Messaging Environment (2025)
+### VESME ~ Virtualized Ephemeral Secure Messaging Environment (2025)
 
 **Role:** Architect & Lead Developer
 
@@ -292,7 +296,7 @@ LainOS Layer 02 is an OpenRC-based Systemd-free Linux operating system built aro
 
 **Status:** Stable as of 2027.07.30. In daily production use.
 
-## Protocol 7 ~ Init-Agnostic systemd Compatibility Layer (LainOS Layer 02)
+## Protocol 7 ~ Init-Agnostic systemd-decoupling Compatibility Layer (LainOS Layer 02)
 **Role:** Independent Systems & Security Engineer · Lead Architect & Maintainer
 **Repository:** [https://forgejo.lain.rocks/lainOS/Protocol-7](https://forgejo.lain.rocks/lainOS/Protocol-7)
 
