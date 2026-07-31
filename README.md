@@ -98,7 +98,7 @@ Designed a layered DNS resolution architecture for LainOS Layer 02 that presents
 
 ---
 
-### LainOS ~ Privacy-Hardened Arch Linux (2022 – Present) 
+## LainOS ~ Privacy-Hardened Arch Linux (2022 – Present) 
 
 #### 150 GitHub stars(110 stars without the wallpaper repo)
 
@@ -119,7 +119,7 @@ LainOS is a rolling-release Linux distribution based on Arch, focused on privacy
 
 ---
 
-### VESME ~ Virtualized Ephemeral Secure Messaging Environment (2025)
+## VESME ~ Virtualized Ephemeral Secure Messaging Environment (2025)
 
 **Role:** Architect & Lead Developer
 
