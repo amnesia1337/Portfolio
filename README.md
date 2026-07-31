@@ -58,7 +58,7 @@ Delivered a Calamares-based graphical installer integrated with a dracut live-bo
 
 ---
 
-### LainOS — Privacy-Hardened Arch Linux (2022 – Present)
+### LainOS — Privacy-Hardened Arch Linux (2022 – Present) 150 GitHub stars
 
 **Role:** Project Lead/Maintainer
 
