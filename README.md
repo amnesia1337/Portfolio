@@ -40,7 +40,7 @@ LainOS Layer 02 is an OpenRC-based Systemd-free Linux operating system built aro
 
 **Status:** Stable as of 2027.07.30. In daily production use.
 
-## Protocol 7 ~ Init-Agnostic systemd Compatibility Layer (LainOS Layer 02)
+## Protocol 7 ~ Init-Agnostic systemd-decoupling Compatibility Layer (LainOS Layer 02)
 **Role:** Independent Systems & Security Engineer · Lead Architect & Maintainer
 **Repository:** [https://forgejo.lain.rocks/lainOS/Protocol-7](https://forgejo.lain.rocks/lainOS/Protocol-7)
 
