@@ -1,6 +1,6 @@
 # Grayson Giles (Amnesia)
 
-**Independent Systems Engineer & Architect · Security Researcher · Linux Distribution Maintainer**
+**Independent Systems Engineer & Architect · Security Engineer & Researcher · Linux Distribution Maintainer**
 
 **Email: amnesia@lainos.net**
 
